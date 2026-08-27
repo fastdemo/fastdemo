@@ -11,6 +11,6 @@ $$ |     \$$$$$$$ |$$$$$$$  |  \$$$$  |\$$$$$$$\ \$$$$$$  |\$$$$$$$ |\$$$$$$$\
 
 hey there, just your average coder trying to build cool apps and websites!!
 
-this github is just a public repository that houses all my projects, repos and apps. for now, none of them are intended for commercial use.
+this github is just a public repository that houses all my projects, repos and apps i build with free will.
 
 you're welcome to explore ;)
