@@ -13,10 +13,10 @@ $$ |     \$$$$$$$ |$$$$$$$  |  \$$$$  |\$$$$$$$\ \$$$$$$  |\$$$$$$$ |\$$$$$$$\
 i build, break, fix things and learn from it! just an average coder who makes random stuff.
 
 ## what you'll find here
-projects        → things i decided were worth sharing here lol
-experiments     → investigations that answers my intrusive thoughts
-random stuff    → exactly what it sounds like
-unfinished      → let's not talk about these
+- projects        → things i decided were worth sharing here lol
+- experiments     → investigations that answers my intrusive thoughts
+- random stuff    → exactly what it sounds like
+- unfinished      → let's not talk about these
 
 ## experience
 
