@@ -27,7 +27,7 @@ i build, break, fix things and learn from it! just an average coder who makes ra
 `git` `github` `cli` `vscode` `codex` `opencode` `canva` `capcut` `davinci resolve`
 
 - **stuff i make**
-`apps` `websites` `games` `browser extensions` `graphics / design` `videos / movies`
+`apps` `websites` `games` `browser extensions` `graphics / designs` `videos / movies`
 
 ## a few things about me!
 - i love automating things that would usually be tedious
