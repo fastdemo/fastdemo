@@ -36,4 +36,4 @@ i build, break, fix things and learn from it! just an average coder who makes ra
 
 ## you're welcome!
 
-this github is just a public repository that houses all my projects, repos and apps i build with free will. feel free to explore <3
+this github houses all my projects, repos and apps i build with free will. feel free to explore <3
