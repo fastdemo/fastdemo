@@ -34,6 +34,6 @@ i build, break, fix things and learn from it! just an average coder who makes ra
 - im always obsessed over tiny details and inconsistencies haha
 - things that i create make my life easier (and hopefully yours too!)
 
-## you're welcome!
+## welcome!
 
 this github houses all my projects, repos and apps i build with free will. feel free to explore <3
