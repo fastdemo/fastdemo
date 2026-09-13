@@ -10,7 +10,7 @@ $$ |     \$$$$$$$ |$$$$$$$  |  \$$$$  |\$$$$$$$\ \$$$$$$  |\$$$$$$$ |\$$$$$$$\  
 ```
 
 ## heyhey!
-i'd like to build, break & fix things! making apps / websites / extensions that make my life easier *(or hopefully yours aswell!)*
+i'd like to build, break & fix things! making apps / websites / extensions that make my life easier *(and hopefully yours aswell!)*
 
 ## experience
 
