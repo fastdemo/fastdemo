@@ -25,4 +25,4 @@ i'd like to build, break & fix things! making apps / websites / extensions that 
 
 ## makes yourselves at home!
 
-this github houses all my projects, repos and apps i build with free will. feel free to explore <3
+here lies all my projects, repos and apps i build with free will. feel free to explore <3
