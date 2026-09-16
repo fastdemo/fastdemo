@@ -23,6 +23,6 @@ i'd like to build, break & fix things! making apps / websites / extensions that 
 - **stuff i make**
 `apps` `websites` `games` `browser extensions` `graphics / designs` `videos / movies`
 
-## makes yourselves at home!
+## head on!
 
-here lies all my projects, repos and apps i build with free will. feel free to explore <3
+here lies all my projects, repos and apps i build with free will. feel free to explore :3
