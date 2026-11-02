@@ -15,10 +15,10 @@ i'd like to build, break & fix things! making apps / websites / extensions that 
 ## experience
 
 - **languages**
-`python` `lua` `c` `html` `css`
+`python` `lua` `c` `html` `css` `react`
 
 - **stuff i use**
-`git` `github` `cli` `vscode` `codex` `opencode` `canva` `capcut` `davinci resolve`
+`git` `github` `cli` `vscode` `codex` `opencode` `affinity` `canva` `capcut` `davinci resolve`
 
 - **stuff i make**
 `apps` `websites` `games` `browser extensions` `graphics / designs` `videos / movies`
